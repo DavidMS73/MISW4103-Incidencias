@@ -7,26 +7,26 @@ assignees: ''
 
 ---
 
-##Comportamiento esperado
+###Comportamiento esperado
 A clear and concise description of what the bug is.
 
-##Comportamiento actual
+###Comportamiento actual
 A clear and concise description of what the bug is.
 
-##Pasos a reproducir
+###Pasos a reproducir
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-##Evidencias
+###Evidencias
 A clear and concise description of what you expected to happen.
 
-##Contexto (ambiente de ejecución)
+###Contexto (ambiente de ejecución)
  - App version: [e.g. 22]
  - OS: [e.g. iOS8.1]
  - Browser: [e.g. stock browser, safari]
 
-##Información adicional
+###Información adicional
 Add any other context about the problem here.
